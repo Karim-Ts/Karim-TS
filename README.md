@@ -1,16 +1,26 @@
-## Hi there 👋
+Hey 👋, moi c’est Karim
+Développeur front-end basé en Île-de-France
+Javascript • Typescript • React • Next.js • PostgreSQL • Tailwind CSS • Vercel
 
-<!--
-**Karim-Ts/Karim-TS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 À propos de moi
+Je ne me contente pas de coder des interfaces. J’imagine des projets utiles, jolis et fonctionnels, de l’idée jusqu’à la mise en ligne.
+Grâce à mes expériences pro et perso, j’ai aussi développé une vraie sensibilité produit, SEO et design.
 
-Here are some ideas to get you started:
+Je conçois des produits qui ne sont pas juste beaux, mais concrets et efficaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Compétences principales
+Langages :
+Javascript · Typescript · HTML · CSS · SQL
+
+Frameworks & Librairies :
+React · Next.js · Tailwind CSS · Node.js
+
+Base de données & hébergement :
+PostgreSQL · Vercel · pgAdmin
+
+Outils :
+Git · GitHub · Figma · VS Code
+
+📬 Me contacter
+📩 Email : karimtaslimant@gmail.com
+🌐 Portfolio : karimtaslimant.fr
