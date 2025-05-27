@@ -15,7 +15,7 @@ Grâce à mes expériences pro et perso, j’ai aussi développé une vraie sens
 
 ---
 
-## 🧠 Compétences principales
+## 🧠 Compétences
 
 ### 📝 Langages  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
