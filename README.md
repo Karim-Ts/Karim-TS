@@ -27,7 +27,7 @@ React · Next.js · Tailwind CSS · Node.js
 PostgreSQL · Vercel · pgAdmin
 
 **🛠️ Outils :**  
-Git · GitHub · Figma · VS Code
+Jira · Docker · GitLab · GitHub · Figma · VS Code
 
 ---
 
